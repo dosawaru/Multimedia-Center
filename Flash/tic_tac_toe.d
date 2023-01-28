@@ -1,0 +1,12 @@
+.\flash\tic_tac_toe.o: tic_tac_toe.c
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\flash\tic_tac_toe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\tic_tac_toe.o: GLCD.h
+.\flash\tic_tac_toe.o: LED.h
+.\flash\tic_tac_toe.o: KBD.h
+.\flash\tic_tac_toe.o: game.h

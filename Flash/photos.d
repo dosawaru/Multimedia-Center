@@ -1,0 +1,11 @@
+.\flash\photos.o: photos.c
+.\flash\photos.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H
+.\flash\photos.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\flash\photos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\photos.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\flash\photos.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\flash\photos.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\flash\photos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\photos.o: GLCD.h
+.\flash\photos.o: LED.h
+.\flash\photos.o: KBD.h
